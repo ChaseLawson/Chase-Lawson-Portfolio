@@ -14,7 +14,8 @@ valuable asset. In my spare time, I like to read fiction, go to the gym, and cro
 You can find me here on [LinkedIn](www.linkedin.com/in/cleighlawson) !
 
 ### Education 
-BS in [Writing] with Minor in [African and African American Studies]
+Bachelor of Arts in Writing
+Minor in African and African American Studies
 Loyola University, MD
 
 ### Projects
