@@ -15,8 +15,8 @@ You can find me here on [LinkedIn](www.linkedin.com/in/cleighlawson) !
 
 ### Education 
 Bachelor of Arts in Writing
-Minor in African and African American Studies
-Loyola University, MD
+* Minor in African and African American Studies
+* Loyola University, MD
 
 ### Projects
 
