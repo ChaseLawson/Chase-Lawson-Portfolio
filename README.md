@@ -1,6 +1,6 @@
 # Chase Lawson
 Contact Info: [clawson.leigh@gmail.com]
-#### Literary Agent - Writer
+#### Literary Agent - Writer - Manuscript Developmental Editor
 
 ***
 
