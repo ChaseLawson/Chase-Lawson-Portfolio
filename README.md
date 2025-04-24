@@ -14,22 +14,21 @@ valuable asset. In my spare time, I like to read fiction, go to the gym, and cro
 You can find me here on [LinkedIn](www.linkedin.com/in/cleighlawson) !
 
 ### Education 
-Bachelor of Arts in Writing
-* Minor in African and African American Studies
-* Loyola University, MD
+**Bachelor of Arts in Writing with a Minor in African and African American Studies**
+*Loyola University Maryland - Baltimore, MD*
 
 ### Projects
 
-#### Course Grade Calculator 
- - image
- - Report
+#### Project 1 Title
+- ![Image](link-to-image)
+- [Read the Report](link-to-report)
 
 ***
-#### Creating Student Trancripts 
- - image
- - write up
+#### Project 2 Title
+- ![Image](link-to-image)
+- Write-up here
 
 ***
-#### Side Business Excel
- - image
- - write up
+#### Project 3 Title
+- ![Image](link-to-image)
+- Write-up here
