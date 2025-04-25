@@ -26,9 +26,9 @@ You can find me here on [LinkedIn](www.linkedin.com/in/cleighlawson) !
 
 #### Course Grade Calculator
  - Project 1 Summary
- - ![Course Grade Calculator!](<img width="1440" alt="Project_1_Screenshot" src="https://github.com/user-attachments/assets/d86a1498-9f40-4d0f-bcb9-f18c4bbd02ab" /> "Project 1 - Course Grade Calculator")
+ - ![Course Grade Calculator!](<img width="1440" alt="Project_1_Screenshot" src="https://github.com/user-attachments/assets/d86a1498-9f40-4d0f-bcb9-f18c4bbd02ab" />)
  - Project 1 Report
- - ![WOW!](/images/Project_1.2_Screenshot.png "Project 1 - Course Grade Calculator")
+ - ![WOW!](<img width="1440" alt="Project_1 2_Screenshot" src="https://github.com/user-attachments/assets/1a848065-6408-4b40-b1cf-bde1351884e5" />)
 ***
 #### Creating Student Transcripts
  - Project 2 Summary
