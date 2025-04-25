@@ -15,20 +15,20 @@ Microsoft Excel and Canvas.
 My adaptable skill set, commitment to organized development to produce literary
 excellence, and passion for discovering and creating new voices position me as a
 valuable asset. In my spare time, I like to read fiction, go to the gym, and crochet.
-You can find me here on [LinkedIn](www.linkedin.com/in/cleighlawson) !
+You can find me here on [LinkedIn](www.linkedin.com/in/cleighlawson) !]
 
 ### Education 
 **Bachelor of Arts in Writing with a Minor in African and African American Studies**
-> *Loyola University Maryland - Baltimore, MD*
+> *Loyola University Maryland - Baltimore, MD*]
 
 ***
 ### Projects
 
 #### Course Grade Calculator
  - Project 1 Summary
- - ![Course Grade Calculator!](/images/Project_1_Screenshot.png "Project 1 - Course Grade Calculator")
+![Course Grade Calculator!](/project_images/Project_1_Screenshot.png "Project 1 - Course Grade Calculator")
  - Project 1 Report
- - ![WOW!](/images/Project_1.2_Screenshot.png "Project 1 - Course Grade Calculator")
+![WOW!](/project_images/Project_1.2_Screenshot.png "Project 1 - Course Grade Calculator")
 ***
 #### Creating Student Transcripts
  - Project 2 Summary
