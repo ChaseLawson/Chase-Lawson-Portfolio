@@ -1,4 +1,4 @@
-!(/project_images/Banner.png "Project 1 - Course Grade Calculator")
+ ![Project Banner!](project_images/Banner.png)
 # Chase Lawson
 Contact Info: clawson.leigh@gmail.com
 #### Literary Agent - Writer - Manuscript Developmental Editor
