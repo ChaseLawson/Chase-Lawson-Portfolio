@@ -19,7 +19,7 @@ You can find me here on [LinkedIn](www.linkedin.com/in/cleighlawson) !
 
 ### Education 
 **Bachelor of Arts in Writing with a Minor in African and African American Studies**
-*Loyola University Maryland - Baltimore, MD*
+> *Loyola University Maryland - Baltimore, MD*
 
 ***
 ### Projects
