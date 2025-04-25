@@ -1,4 +1,4 @@
- ![Project Banner!](project_images/Banner.png)
+![Project Banner!](project_images/Banner.png)
 # Chase Lawson
 Contact Info: clawson.leigh@gmail.com
 #### Literary Agent - Writer - Manuscript Developmental Editor
