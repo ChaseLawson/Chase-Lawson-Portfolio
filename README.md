@@ -1,7 +1,11 @@
-# Literary Agent - Writer
+# Chase Lawson
+Contact Info: [clawson.leigh@gmail.com]
+#### Literary Agent - Writer - Manuscript Developmental Editor
+
+***
 
 ### About Me 
-Hello! I am an experienced Writing and Literary Development professional with
+[Hello! I am an experienced Writing and Literary Development professional with
 over 2 years of proven expertise in creative writing and editorial support.
 With skills in storytelling, editing, research, and communication, I am able to craft
 compelling narratives, support manuscript development, and achieve polished,
@@ -11,25 +15,26 @@ Microsoft Excel and Canvas.
 My adaptable skill set, commitment to organized development to produce literary
 excellence, and passion for discovering and creating new voices position me as a
 valuable asset. In my spare time, I like to read fiction, go to the gym, and crochet.
-You can find me here on [LinkedIn](www.linkedin.com/in/cleighlawson) !
+You can find me here on [LinkedIn](www.linkedin.com/in/cleighlawson) !]
 
 ### Education 
-Bachelor of Arts in Writing
-* Minor in African and African American Studies
-* Loyola University, MD
+[**Bachelor of Arts in Writing with a Minor in African and African American Studies**
+*Loyola University Maryland - Baltimore, MD*]
 
+***
 ### Projects
 
-#### Course Grade Calculator 
- - image
- - Report
-
+#### Course Grade Calculator
+ - Project 1 Summary
+ - [insert project 1 screenshot here]
+ - Project 1 Report
 ***
-#### Creating Student Trancripts 
- - image
- - write up
-
+#### Creating Student Transcripts
+ - Project 2 Summary
+ - [insert project 2 screenshot here]
+ - Project 2 Report
 ***
-#### Side Business Excel
- - image
- - write up
+#### Excel Side Business
+ - Project 3 Summary
+ - [insert project 3 screenshot here]
+ - Project 3 Report
