@@ -31,7 +31,7 @@ You can find me here on [LinkedIn](www.linkedin.com/in/cleighlawson) !
 grades using quiz and assessment scores, calculating also both unweighted and
 weighted averages, with correct Python 3 coding.
 
-![Course Grade Calculator!](/project_images/Project_1_Screenshot.png "Project 1 - Course Grade Calculator")
+![Course Grade Calculator!](/project_images/Project_1_Screenshot.png)
 
 ***
 
@@ -57,7 +57,7 @@ tutorial on how to do that in Python coding.
 > **Result:**
 I set out to achieve getting a 100 on this assignment and completing all my coding correctly so that my input ran properly and used the user’s output to address and show a proper analysis of their course grades. Some improvement I would make to get an overall average of their complete grade would be to include grade scores on homework as well to be factored in.
 
-![WOW!](/project_images/Project_1.2_Screenshot.png "Project 1 - Course Grade Calculator")
+![WOW!](/project_images/Project_1.2_Screenshot.png)
 
 ***
 
@@ -67,7 +67,7 @@ their personal with course and grade information, and creating a report transcri
 for the students that includes semester averages, grades, and overall GPA in PDF
 form.
 
-![Hart Lyons Student Transcript](/project_images/Project_2_Screenshot.png "Project 2 - Using Microsoft Access")
+![Hart Lyons Student Transcript](/project_images/Project_2_Screenshot.png)
 
 ***
 
@@ -88,13 +88,13 @@ completing and creating these student transcripts.
 > **Result:**
 I set out to achieve the result of having a full transcript filled with student course name, semester, and class along with grades that correspond in order. I would make the improvement of just trying different layouts of the transcript provided on Access. I just used the one the tutorial video showed me.
 
-![Another Student Xaixer Calloway ](/project_images/Project_2.0_Screenshot.png "Project 2 - Using Microsoft Access")
+![Another Student Xaixer Calloway ](/project_images/Project_2.0_Screenshot.png)
 
 ***
 
 #### Excel Side Business
 - This project involved adding to my Excel side business data sheet system using the VLOOKUP function to calculate item totals, loan payments over specific years listed in instructions, and determining if it's affordable and total interest paid based on the business's budget.
-![CBank's Sneaker Shop](/project_images/Project_3_Screenshot.png "Project 3 - Excel Side Business")
+![CBank's Sneaker Shop](/project_images/Project_3_Screenshot.png)
 
 ***
 
@@ -116,4 +116,4 @@ properly and get the correct amounts with the data I was using. I had some help 
 > **Result:**
 I set out to achieve making my layout creative and using Excel functions to calculate the data properly, and I believe I did achieve this. I would probably have changed the structure, making it a scroll-down instead of scroll-to-the-side appearance so that viewing all the data would be easier to see all at once. 
 
-![All Excel formulas made this!](/project_images/Project_3.0_Screenshot.png "Project 3 - Excel Side Business")
+![All Excel formulas made this!](/project_images/Project_3.0_Screenshot.png)
