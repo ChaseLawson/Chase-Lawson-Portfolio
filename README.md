@@ -4,7 +4,7 @@ Contact Info: clawson.leigh@gmail.com
 #### Literary Agent - Writer - Manuscript Developmental Editor
 
 ***
-![Profile Pic!](project_images/profliepicture.png)
+![Profile Pic!](project_images/profilepic.png)
 ### About Me 
 Hello! I am an experienced Writing and Literary Development professional with
 over 2 years of proven expertise in creative writing and editorial support.
